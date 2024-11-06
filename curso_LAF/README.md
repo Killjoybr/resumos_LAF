@@ -1,6 +1,6 @@
 # Notas de Estudo
 
-Essa pasta contem resumos e outras notas de estudo p/ o curso de Licenciamento Ambiental Federal de Infraestrutura de Transportes (LAF)
+Essa pasta contem resumos e outras notas de estudo p/ o [curso](https://www.escolavirtual.gov.br/curso/919) de Licenciamento Ambiental Federal de Infraestrutura de Transportes (LAF)
 
 ## Módulo 1: Conceitos Básicos Sobre o Licenciamento Ambiental
 - Estrutura do Curso de Licenciamento Ambiental
