@@ -22,20 +22,12 @@ Essa pasta contem resumos e outras notas de estudo p/ o curso de Licenciamento A
 
 <table>
     <tr>
-        <th>
-        Módulo
-        <th>
-        <th>
-        Nota
-        <th>
+    <th>Módulo</th>
+    <th>Nota</th>
     </tr>
     <tr>
-        <td>
-        1
-        </td>
-        <td>
-        25/25
-        </td>
+        <td>1</td>
+        <td>25/25</td>
     </tr>
     <tr>
         <td>
