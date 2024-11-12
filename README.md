@@ -58,7 +58,7 @@ Essa pasta contem resumos e outras notas de estudo p/ o [curso](https://www.esco
         Total
         </td>
         <td>
-        25/100
+        47/100
         </td>
     </tr>
 </table>
