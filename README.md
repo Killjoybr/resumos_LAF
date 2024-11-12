@@ -34,7 +34,7 @@ Essa pasta contem resumos e outras notas de estudo p/ o [curso](https://www.esco
         2
         </td>
         <td>
-        0/25
+        22/25
         </td>
     </tr>
     <tr>
