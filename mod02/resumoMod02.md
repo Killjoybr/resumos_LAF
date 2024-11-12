@@ -154,3 +154,75 @@ casos, a bacia hidrográfica na qual se localiza;
 
 1. Considerar os planos e programas governamentais, propostos e em implantação na
 área de influência do projeto, e sua compatibilidade.
+
+O EIA deverá conter, no mínimo, as seguintes atividades técnicas, conforme Resolução CONAMA nº 01/1986:
+
+1. Diagnóstico ambiental da área de influência do projeto completa, descrição e análise dos recursos ambientais e suas interações.
+   - O meio físico - o subsolo, as águas, o ar e o clima, destacando os recursos minerais, a topografia, os tipos e aptidões do solo, os corpos d'água, o regime hidrológico, as correntes marinhas, as correntes atmosféricas;
+   - O meio biológico e os ecossistemas naturais - a fauna e a flora, destacando as espécies indicadoras da qualidade ambiental, de valor científico e econômico, raras e ameaçadas de extinção e as áreas de preservação permanente;
+   - O meio socioeconômico - o uso e ocupação do solo, os usos da água e a socioeconomia,  destacando os sítios e monumentos arqueológicos, históricos e culturais da comunidade, as relações de dependência entre a sociedade local, os recursos ambientais e a potencial utilização futura desses recursos
+3. Análise dos impactos ambientais do projeto e de suas alternativas.
+3. Definição das medidas mitigadoras dos impactos negativos.
+4. Elaboração do programa de acompanhamento e monitoramentodos impactos.
+
+De acordo com os Termos de Referência para Estudo de Impacto Ambiental do IBAMA, apresentamos a tabela como exemplo da estrutura básica dos empreendimentos de Infra dos Transportes.
+
+<table>
+    <tr>
+        <th>
+        TÓPICO
+        </th>
+        <th>
+        SUBTÓPICO
+        </th>
+    </tr>
+    <tr>
+        <td>
+        INTRODUÇÃO
+        </td>
+    </tr>
+    <tr>
+        <td>
+        IDENTIFICAÇÃO
+        </td>
+        <td>
+        Identificação do empreendedor 
+        <br> 
+        Identificação da empresa de Consultoria
+        </td>
+    </tr>
+    <tr>
+        <td>
+        CARACTERIZAÇÃO DO EMPREENDIMENTO E SUAS ALTERNATIVAS
+        </td>
+        <td>
+        Canteiro de obras e Infra de Apoio
+        <br>
+        Insumos e Utilidade
+        <br>
+        Acesso e Rotas
+        <br>
+        Mão de Obra
+        <br>
+        Efluentes Líquidos
+        <br>
+        Resíduos Sólidos
+        <br>
+        Emissões atmosféricas, Ruídos, Vibrações, e Luminosidade Artificial
+        <br>
+        Dragagem, Terraplanagem e outras Intervenções
+        </td>
+    </tr>
+    <tr>
+        <td>
+        CARACTERIZAÇÃO DO EMPREENDIMENTO E SUAS ALTERNATIVAS 
+        </td>
+        <td>
+        Análise de compatibilidade legal
+        <br>
+        Cronograma
+        <br>
+        </td>
+    </tr>
+    
+</table>
