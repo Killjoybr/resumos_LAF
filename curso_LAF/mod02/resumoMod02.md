@@ -154,3 +154,13 @@ casos, a bacia hidrográfica na qual se localiza;
 
 1. Considerar os planos e programas governamentais, propostos e em implantação na
 área de influência do projeto, e sua compatibilidade.
+
+O EIA deverá conter no mínimo, as seguintes atividades técnicas, conforme a resolução CONAMA nº01/1986:
+
+1. Diagnóstico ambiental da área de influência do projeto completa, descrição e análise dos recursos ambientais e suas interações, de modo a caracterizar a situação ambiental da área antes da implantação do projeto, considerando:
+    
+    - O  meio físico - o subsolo, as águas, o ar e o clima, destacando os recursos minerais, a topografia, os tipos e aptidões do solo, os corpos d'água, o regime hidrológico, as correntes marinhas, as correntes atmosféricas
+    - O meio biológico e os ecossistemas naturais - a fauna e a flora, destacando as espécies indicadoras da qualidade ambiental, de valor científico e econômico, raras e ameaçadas de extinção e as áreas de preservação permanente
+    - O meio socioeconômico - o uso e ocupação do solo, os usos da água e a socioeconomia, destacando os sítios e monumentos arqueológicos, históricos e culturais da comunidade, as relações de dependência entre a sociedade local, os recursos ambientais e a potencial utilização futura desses recursos.
+1. Análise dos impactos ambientais do projeto e de suas alternativas, através de identificação e interpretação dos prováveis impactos, discriminando os impactos positivos e negativos, seu grau de reversabilidade, suas propriedades cumulativas e a distribuiçãodos ônus e benefícios sociais.
+2. 
