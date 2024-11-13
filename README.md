@@ -26,10 +26,10 @@ Essa pasta contem resumos e outras notas de estudo p/ o [curso](https://www.esco
 - Programas Ambientais de Operação
 - Programa de Rodovias Federais Ambientalmente Sustentáveis PROFAS
 
-## Módulo 3: Environmental Impact Assessment
+## Módulo 3: Outros Instrumentos Decorrentes do Rito Ordinário
 
 
-## Módulo 4: Ritos Simplificados do LAF
+## Módulo 4: Ritos Simplificados do Licenciamento Ambiental Federal
 
 
 ### Pontuação obtida em cada módulo:
