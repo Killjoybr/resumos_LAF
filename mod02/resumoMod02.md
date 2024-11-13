@@ -263,4 +263,44 @@ Nesta etapa é efetuado uma análise (através de check-list) para verificar se 
 
 Caso atenda o escopo, é avaliado o estudo ambiental, a avaliação do estudo visa evidenciar o cumprimento das definições da legislação ambiental.
 
-São avaliados também os resultados de vistorias técnicas e eventuais consultas públicas, cujas conclusões influenciam a decisão final do Ibama sobre o pedido da licença.
+São avaliados também os resultados de vistorias técnicas e eventuais consultas públicas, cujas conclusões influenciam a decisão final do Ibama sobre o pedido de licença.
+
+## Emissão de Licença Prévia
+É emitido pelo órgão ambiental licenciador. Ao expedir a LP, o órgão atesta a viabilidade ambiental do empreendimento e estabelece requisitos para o empreendedor. **A concessão da Licença Prévia NÂO autoriza a realização de obras de implantação do empreendimento**
+
+O prazo de validade da LP deverá ser, no mínimo, o estabelecido no cronograma de elaboração dos planos, não podendo exceder 5 anos.
+
+Fluxograma das principais etapas:
+
+![fluxograma_LP](assets/fluxograma_LP.png)
+
+## Programas Ambientais de Instalação
+São apresentados em conjunto com o requerimento de licença de instalação, fazendo parte de um Plano de Gestão Ambiental (PGA), este recebe inúmeras denominações, tais como Plano Básico Ambiental (PBA), Plano de Controle Ambiental (PCA), Relatório de Controle Ambiental (RCA), entre outros.
+
+PBA sistematiza as medidas de prevenção e tratamento dos impactos ambientais e de monitoramento ambiental.
+
+Planos e programas têm como objetivo:
+- A implementação de medidas de prevenção, mitigação e compensação propostas.
+
+- O acompanhamento da evolução da qualidade ambiental da área de influência do empreendimento.
+
+- Garantir a eficiência das ações a serem executadas, avaliando a necessidade de adoção de medidas complementares.
+
+Os programas deverão considerar os seguintes aspectos:
+1. As fases do empreendimento em que deverão ser implantadas as medidas.
+2. O caráter preventivo ou corretivo; compensatório, mitigador, potencializador de eficácia, entre outros;
+3. O fator ambiental a que se destina (físico, biótico ou socioeconômico);
+4. O prazo de permanência de sua aplicação: curto, médio ou longo;
+5. O agente executor (empreendedor, poder público, outros).
+
+## Emissão de Licença de Instalação
+É necessário a apresentação dos programas ambientais contidos em um PGA, assim como deve atender os requisitos apresentados na LP.
+
+O órgão licenciador deverá encamihar os estudos aos órgãos intervenientes para sua manifestação, quando for o caso. 
+
+O prazo para análise dos documentos é de 75 dias, contados a partir do recebimento do PBA. Durante o prazo é possível que sejam realizadas vistorias técnicas, solicitações de esclarecimento e complemento de informações ao empreendedor e órgãos envolvidos.
+
+Etapas do processo
+- Requerimento de Licença de Instalação pelo empreendedor, acompanhado de documentos, P
+
+![pricipais_LI](assets/pricipais_LI.png)
