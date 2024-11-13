@@ -301,6 +301,143 @@ O órgão licenciador deverá encamihar os estudos aos órgãos intervenientes p
 O prazo para análise dos documentos é de 75 dias, contados a partir do recebimento do PBA. Durante o prazo é possível que sejam realizadas vistorias técnicas, solicitações de esclarecimento e complemento de informações ao empreendedor e órgãos envolvidos.
 
 Etapas do processo
-- Requerimento de Licença de Instalação pelo empreendedor, acompanhado de documentos, P
+- Requerimento de Licença de Instalação pelo empreendedor, acompanhado de documentos, propostas de programas para controle dos impactos ambientais, projetos e comprovação do cumprimento dos requisitos informados na LP;
+- Publicação do requerimento conforme Resolução Conama nº06/86;
+- Solicitação de esclarecimentos e complementações dos documentos apresentados pelo empreendedor;
+- Solicitação de esclarecimentos e complementação dos documentos apresentados pelo órgão ambiental;
+- Emissão de parecer técnico conclusivo, diz respeito ao cumprimento dos requisitos apresentados na LP, discrimina posicionamento sobre a possibilidade do início das obras de implantação;
+- Deferimento ou indeferimento do requerimento de LI;
+- Publicação da LI, conforme Resolução Conama nº06/86;
+
+<br>
 
 ![pricipais_LI](assets/pricipais_LI.png)
+
+## Emissão de Licença de Operação (LO)
+
+Para emissão da LO, o órgão ambiental deve verificar se os requisitos técnicos e as exigências estabelecidas nas etapas anteriores.
+
+A LO estabelece as medidas de monitoramento e acompanhamento de efeito para a verificação das atividades do empreendimento licenciado.
+
+A eficácia da implementação destas medidas é verificada pelo órgão ambiental ao decorrer do tempo, no momento da renovação das LOs emitidas, as LOs tem validade mínima de 4 anos e máxima de 10 segundo a Resolução Conama nº237/1997.
+
+Etapas do processo
+- Requerimento da Licença de Operação emitido pelo empreendedor, acompanha a comprovação do cumprimento dos requisitos apresentados na LI;
+- Emissão de parecer técnico conclusivo a respeito do cumprimento das condicionantes apresentadas na LI e a decisão sobre o início de funcionamento do empreendimento;
+- Deferimento ou indeferimento do requerimento de LO;
+- Publicação da Licença de Operação conforme Resolução Conama nº06/1986;
+
+<br>
+
+![etapas_LO](assets/etapas_LO.png)
+
+## Programas Ambientais de Operação
+
+Deverão permitir o acompanhamento real dos efeitos do empreendimento sobre o meio ambiente, avaliando a eficiência das medidas mitigadores propostas. 
+
+<table>
+    <tr>
+        <th>
+            PROGRAMA
+        </th>
+        <th>
+            DESCRIÇÃO
+        </th>
+    </tr>
+    <tr>
+        <td>
+            Programa de Gestão Ambiental ou Supervisão Ambiental
+        </td>
+        <td>
+            Estabelece, implementa, mantem e aprimora um sistema de gestão ambiental para a operação do empreendimento.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Programa de Controle de Emissão de Poluentes Atmosféricos
+        </td>
+        <td>
+            Ações para mitigar e controlar as emissões atmosféricas geradas nas atividades operacionais.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Programa de Gerenciamento de Resíduos Sólidos
+        </td>
+        <td>
+            Este programa visa estabelecer medidas, técnicas e processos mínimos a serem adotados para o correto gerenciamento de resíduos na operação de empreendimentos.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Programa de Gerenciamento de Efluentes
+        </td>
+        <td>
+            Tem como objetivo minimizar os riscos ambientais decorrentes da geração de efluentes, tratando-os e dispondo-os adequadamente, conforme a legislação pertinente.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Programa de Gerenciamento de Riscos Ambientais
+        </td>
+        <td>
+            Define a política e as diretrizes de um sistema de gestão, com vista à prevenção de acidentes em instalações ou atividades potencialmente perigosas.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Programa de Gerenciamento de Áreas Contaminadas
+        </td>
+        <td>
+            Apresenta conjunto de medidas que visam minimizar os riscos a que estão sujeitos a população e o meio ambiente em virtude da existência de áreas contaminadas, através do conhecimento das características dessas áreas e dos impactos por elas causados, bem como as formas de intervenção necessárias.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Programa de Monitoramento de Qualidade da Água
+        </td>
+        <td>
+            Monitorar a manutenção das características físico-químicas dos recursos hídricos, permitindo o melhor entendimento e a determinação da existência de impacto causado pelo empreendimento, segundo os parâmetros estabelecidos. Proceder às ações de controle e/ou mitigação necessárias ao reestabelecimento das condições naturais (ou o mais próximo possível destas) se identificadas alterações nos cursos hídricos monitorados.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Programa de Identificação e Controle de Processos Erosivos
+        </td>
+        <td>
+            Destinado a identificar e evitar a formação de processos erosivos, minimizar e/ou eliminar os processos formados, resguardando as áreas direta e indiretamente afetadas, protegendo o solo e os recursos hídricos.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Programa de Educação Ambiental
+        </td>
+        <td>
+            Ações para promover a conscientização e sensibilização ambiental, visando a capacitação e o treinamento de funcionários da empresa sobre os aspectos ambientais.
+        </td>
+    </tr>
+</table>
+
+## Programa de Rodovias Federais Ambientalmente Sustentáveis PROFAS
+
+O Brasil já possuía milhares de quilômetros de rodovias pavimentadas antes da instituição do licenciamento ambiental, ou seja, quando os estudos ambientais passaram a ser obrigatórios boa parte das rodovias já existiam.
+
+A regularização ambiental dessas rodovias é atualmente regida pela Portaria Interministerial nº 01, de 04 de novembro de 2020, que revogou as Portarias MMA/MT nº 288/2013, trazendo alterações nos critérios e no procedimento de regularização ambiental.
+
+A nova portaria estabeleceu uma fase de transição entre os procedimentos de operação e manutenção, de acordo com a portaria são permitidas as seguintes operações:
+
+1. **Manutenção:** Atividades de conservação recuperação e restauração das rodovias pavimentadas.
+2. **Melhoramentos:** Operações que alteram as características da rodovia para atender novas demandas operacionais, com limite de até 5Km.
+3. **Ampliação de Capacidade:** Duplicação parcial e construção de faixas adicionais (com até 25Km) dentro da faixa de domínio existente, exceto para a região da Amazônia legal, e sem a remoção de vegetação nativa arbórea ou intervenção em áreas protegidas.
+4. **Supressão de Vegetação:** Permitida apenas para garantir a segurança e trafegabilidade, com restrições quanto a áreas protegidas e rendimento lenhoso.
+5. **Operações de Empréstimo e "Bota-fora":** Necessárias para manutenção, limitadas fora de áreas de preservação permanente e exceto na Amazônia legal.
+
+*Bota-fora refere-se ao processo de descarte de materiais excedentes e resíduos provenientes dos empreendimentos*
+
+**Links sobre as PROFAS:**
+
+[Mapa das BRs que serão regularizadas pelo IBAMA, conforme a MINFRA/MMA nº1/2020](https://www.gov.br/dnit/pt-br/assuntos/planejamento-e-pesquisa/meio-ambiente/regularizacao-informacao-e-ambiental/informacao-ambiental/mapa-nova_portaria_regularizacao.pdf)
+
+[Planilha(.xls) com listagem dos segmentos em regularização ambiental conforme PI nº01/20](https://www.gov.br/dnit/pt-br/assuntos/planejamento-e-pesquisa/meio-ambiente/regularizacao-informacao-e-ambiental/regularizacao-ambiental/banco-de-dados-regularizacao-ambiental-v07-17-08-22.xlsx)
+
+[Pasta compactada(.zip) de segmentos rodoviários(shapefile/.shp) em regularização ambiental conforme PI nº01/20](https://www.gov.br/dnit/pt-br/assuntos/planejamento-e-pesquisa/meio-ambiente/regularizacao-informacao-e-ambiental/regularizacao-ambiental/nova_portaria.zip)
