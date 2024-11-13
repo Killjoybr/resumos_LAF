@@ -10,7 +10,21 @@ Essa pasta contem resumos e outras notas de estudo p/ o [curso](https://www.esco
 - Procedimentos e Competências
 
 ## Módulo 2: Ritos Ordinários do Licenciamento Ambiental
-
+- Licenças Ambientais
+- Fases do LAF
+- Abertura do Processo
+- Análise de Competência e Triagem
+- Definição de Escopo
+- Órgãos Intervenientes
+- Termo de Referência
+- Conteúdo do Estudo EIA Estudo de Impacto Ambiental
+- Análise de Viabilidade
+- Emissão de Licenla Prévia
+- Programas Ambientais de Instalação
+- Emissão de Licença de Instalação
+- Emissão de Licença de Operação
+- Programas Ambientais de Operação
+- Programa de Rodovias Federais Ambientalmente Sustentáveis PROFAS
 
 ## Módulo 3: Environmental Impact Assessment
 
