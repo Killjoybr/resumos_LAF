@@ -193,7 +193,7 @@ De acordo com os Termos de Referência para Estudo de Impacto Ambiental do IBAMA
     </tr>
     <tr>
         <td>
-        CARACTERIZAÇÃO DO EMPREENDIMENTO E SUAS ALTERNATIVAS
+        CARACTERIZAÇÃO DO EMPREENDIMENTO / ATIVIDADE
         </td>
         <td>
         Canteiro de obras e Infra de Apoio
@@ -215,7 +215,7 @@ De acordo com os Termos de Referência para Estudo de Impacto Ambiental do IBAMA
     </tr>
     <tr>
         <td>
-        CARACTERIZAÇÃO DO EMPREENDIMENTO E SUAS ALTERNATIVAS 
+        ALTERNATIVAS TECNOLÓGICAS E LOCACIONAIS DO EMPREENDIMENTO
         </td>
         <td>
         Análise de compatibilidade legal
@@ -224,5 +224,43 @@ De acordo com os Termos de Referência para Estudo de Impacto Ambiental do IBAMA
         <br>
         </td>
     </tr>
-    
+    <tr>
+        <td>
+            ÁREA DE ESTUDO
+        </td>
+        <td>
+            Área Diretamente Afetada
+        </td>
+    </tr>
+    <tr>
+        <td>
+            DIAGNOSTICO - MEIO FÍSICO
+        </td>
+        <td>
+            Climatologia
+            <br>
+            Qualidade do Ar
+            <br>
+            Ruídos e Vibrações
+            <br>
+            Ruídos Terrestres e Subaquáticos e Vibrações (Portos)
+            <br>
+            Geologia, Geomorfologia e Pedologia
+            <br>
+            Recursos Hídricos
+            <br>
+            Hidrodinâmica Costeira e Transporte de sedimentos (Portos)
+            <br>
+            Sedimentos Aquáticos (Portos)
+            <br>
+            Espeologia (Ferrovias e Rodovias)
+        </td>
+    </tr> 
 </table>
+
+## Análise de Viabilidade
+Nesta etapa é efetuado uma análise (através de check-list) para verificar se o estudo atende ao escopo definido no Termo de Referência.
+
+Caso atenda o escopo, é avaliado o estudo ambiental, a avaliação do estudo visa evidenciar o cumprimento das definições da legislação ambiental.
+
+São avaliados também os resultados de vistorias técnicas e eventuais consultas públicas, cujas conclusões influenciam a decisão final do Ibama sobre o pedido da licença.
