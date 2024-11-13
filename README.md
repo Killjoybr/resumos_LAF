@@ -29,7 +29,7 @@ Essa pasta contem resumos e outras notas de estudo p/ o [curso](https://www.esco
 ## Módulo 3: Environmental Impact Assessment
 
 
-## Módulo 4: Licensing Procedures and Compliance
+## Módulo 4: Ritos Simplificados do LAF
 
 
 ### Pontuação obtida em cada módulo:
