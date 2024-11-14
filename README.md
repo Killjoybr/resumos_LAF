@@ -18,6 +18,7 @@ Essa pasta contem resumos e outras notas de estudo p/ o [curso](https://www.esco
 - [Órgãos Intervenientes](/mod02/resumoMod02.md#órgãos-intervenientes)
 - [Termo de Referência](/mod02/resumoMod02.md#termo-de-referência)
 - [Conteúdo do Estudo EIA Estudo de Impacto Ambiental](/mod02/resumoMod02.md#contéudo-do-estudo-de-impactro-ambiental-eia)
+- [Estudos Ambientais de Baixo Risco](/mod02/resumoMod02.md#estudos-ambientais-de-baixo-risco)
 - [Análise de Viabilidade](/mod02/resumoMod02.md#análise-de-viabilidade)
 - [Emissão de Licenla Prévia](/mod02/resumoMod02.md#emissão-de-licença-prévia)
 - [Programas Ambientais de Instalação](/mod02/resumoMod02.md#programas-ambientais-de-instalação)
@@ -27,7 +28,8 @@ Essa pasta contem resumos e outras notas de estudo p/ o [curso](https://www.esco
 - [Programa de Rodovias Federais Ambientalmente Sustentáveis PROFAS](/mod02/resumoMod02.md#programa-de-rodovias-federais-ambientalmente-sustentáveis-profas)
 
 ## Módulo 3: Outros Instrumentos Decorrentes do Rito Ordinário
-
+- [Audiência Pública](/mod03/resumoMod03.md#audiência-pública)
+- [Compensação Ambiental](/mod03/resumoMod03.md#compensação-ambiental)
 
 ## Módulo 4: Ritos Simplificados do Licenciamento Ambiental Federal
 
