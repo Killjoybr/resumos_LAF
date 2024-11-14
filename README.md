@@ -11,27 +11,29 @@ Essa pasta contem resumos e outras notas de estudo p/ o [curso](https://www.esco
 
 ## Módulo 2: Ritos Ordinários do Licenciamento Ambiental
 - [Licenças Ambientais](/mod02/resumoMod02.md#licenças-ambientais)
-- [Fases do LAF](/mod02/resumoMod02.md#fases-do-laf)
-- [Abertura do Processo](/mod02/resumoMod02.md#abertura-do-processo)
-- [Análise de Competência e Triagem](/mod02/resumoMod02.md#análise-de-competência-e-triagem)
-- [Definição de Escopo](/mod02/resumoMod02.md#definição-de-escopo)
+  - [Fases do LAF](/mod02/resumoMod02.md#fases-do-laf)
+  - [Abertura do Processo](/mod02/resumoMod02.md#abertura-do-processo)
+  - [Análise de Competência e Triagem](/mod02/resumoMod02.md#análise-de-competência-e-triagem)
+  - [Definição de Escopo](/mod02/resumoMod02.md#definição-de-escopo)
 - [Órgãos Intervenientes](/mod02/resumoMod02.md#órgãos-intervenientes)
 - [Termo de Referência](/mod02/resumoMod02.md#termo-de-referência)
 - [Conteúdo do Estudo EIA Estudo de Impacto Ambiental](/mod02/resumoMod02.md#contéudo-do-estudo-de-impactro-ambiental-eia)
-- [Estudos Ambientais de Baixo Risco](/mod02/resumoMod02.md#estudos-ambientais-de-baixo-risco)
+  - [Estudos Ambientais de Baixo Risco](/mod02/resumoMod02.md#estudos-ambientais-de-baixo-risco)
 - [Análise de Viabilidade](/mod02/resumoMod02.md#análise-de-viabilidade)
-- [Emissão de Licenla Prévia](/mod02/resumoMod02.md#emissão-de-licença-prévia)
+- [Emissão de Licença Prévia](/mod02/resumoMod02.md#emissão-de-licença-prévia)
 - [Programas Ambientais de Instalação](/mod02/resumoMod02.md#programas-ambientais-de-instalação)
 - [Emissão de Licença de Instalação](/mod02/resumoMod02.md#emissão-de-licença-de-instalação)
 - [Emissão de Licença de Operação](/mod02/resumoMod02.md#emissão-de-licença-de-operação-lo)
 - [Programas Ambientais de Operação](/mod02/resumoMod02.md#programas-ambientais-de-operação)
-- [Programa de Rodovias Federais Ambientalmente Sustentáveis PROFAS](/mod02/resumoMod02.md#programa-de-rodovias-federais-ambientalmente-sustentáveis-profas)
+  - [Programa de Rodovias Federais Ambientalmente Sustentáveis PROFAS](/mod02/resumoMod02.md#programa-de-rodovias-federais-ambientalmente-sustentáveis-profas)
 
 ## Módulo 3: Outros Instrumentos Decorrentes do Rito Ordinário
 - [Audiência Pública](/mod03/resumoMod03.md#audiência-pública)
 - [Compensação Ambiental](/mod03/resumoMod03.md#compensação-ambiental)
 
-## Módulo 4: Ritos Simplificados do Licenciamento Ambiental Federal
+## Módulo 4: Licenciamento Ambiental da Infraestrutura de Transportes
+- Rodovias
+- 
 
 
 ### Pontuação obtida em cada módulo:
@@ -58,7 +60,7 @@ Essa pasta contem resumos e outras notas de estudo p/ o [curso](https://www.esco
         3
         </td>
         <td>
-        0/25
+        25/25
         </td>
     </tr>
     <tr>
@@ -74,7 +76,7 @@ Essa pasta contem resumos e outras notas de estudo p/ o [curso](https://www.esco
         Total
         </td>
         <td>
-        47/100
+        72/100
         </td>
     </tr>
 </table>
