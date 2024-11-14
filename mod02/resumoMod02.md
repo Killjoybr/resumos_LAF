@@ -132,7 +132,7 @@ Após a finalização dos trâmites necessários o órgão ambiental irá encami
 
 O prazo de validade do TR é de 2 anos e pode ser renovado a pedido do empreendedor e a critério do órgão ambiental.
 
-## Contéudo do Estudo de Impactro Ambiental (EIA)
+## Contéudo do Estudo de Impacto Ambiental (EIA)
 O art. 2º da Resolução CONAMA nº 01/86 define diversas atividades que necessitam da elaboração de EIA, porém se formos destacar as atividades relacionadas a infraestrutura de transportes temos:
 
 - Estradas de rodagem com duas ou mais faixas de rolamento;
@@ -257,6 +257,26 @@ De acordo com os Termos de Referência para Estudo de Impacto Ambiental do IBAMA
         </td>
     </tr> 
 </table>
+
+## Estudos Ambientais de "Baixo Risco"
+
+**Estudo Ambiental Simplificado (EAS)**
+
+Realizado na fase de licença prévia, baseia a avaliação dos impactos ambientais de empreendimentos entre não significativo ou baixo potencial.
+
+**Estudo Ambiental Premliminar (EAP)**
+
+Realizado na fase de licença prévia, analisa a localização, instalação, operação e ampliação do empreendimento ou atividade. Esse estudo é necessário em situação de elevados potencial poluidor e impacto ambiental.
+
+**Estudo de Impacto de Vizinhança (EIV)**
+
+Instituído pelo Estatudo da Cidade (Lei nº10.257/2001). O EIV elucida que todos os municípios brasileiros devem manter-se regulamentados em lei específica. 
+
+Avalia a paisagem urbana, movimentação de pessoas e mercadorias, atividades e empreendimentos preexistentes e faz um estudo dos recursos naturais da região.
+
+**Estudo de Viabilidade Ambiental (EVA)**
+
+Identifica a existência de limitações que podem embargar um projeto, fornece um apoio sobre as resoluções e como iniciar possíveis redefinições. Este estudo busca evitar problemas durante o licenciamento ambiental.
 
 ## Análise de Viabilidade
 Nesta etapa é efetuado uma análise (através de check-list) para verificar se o estudo atende ao escopo definido no Termo de Referência.
