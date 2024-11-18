@@ -109,12 +109,16 @@ Ações **urgentes/emergenciais**
 ## FERROVIAS
 <table>
     <tr>
-        <th>
-            LEGISLAÇÃO ESPECÍFICA
-        </th>
-        <th>
-            DESCRIÇÃO
-        </th>
+        <th>LEGISLAÇÃO ESPECÍFICA</th>
+        <th>DESCRIÇÃO</th>
+    </tr>
+    <tr>
+        <td>Resolução Conama nº479/2017</td>
+        <td>Trata sobre o licenciamento ambiental de empreendimentos ferroviários de baixo potencial de impacto ambiental e a regularização dos empreendimentos de operação.</td>
+    </tr>
+    <tr>
+        <td>Instrução Normativa IBAMA nº13/2013</td>
+        <td>Estabelece padronização metodológica dos planos de amostragem de fauna exigidos nos estudos ambientais necessários para o licenciamento ambiental de rodovias e ferrovias. A padronização também se aplica à etapa de monitoramento, após a emissão de LI, devendo continuar a ser adotada após emissão de LO, caso haja atividades de monitoramento previstas para essa etapa.</td>
     </tr>
 </table>
 
