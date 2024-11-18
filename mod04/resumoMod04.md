@@ -41,8 +41,22 @@ A portaria MMA/INFRA nº 01/2020 estabelece procedimentos de licenciamento ambie
 - **AO:** Autorização de Operação, cujo modelo de requerimento é anexo a Portaria.
 - **RFAR:** Relatório Anual de Regularização Ambiental.
 
+O empreendedor poderá solicitar a LO a qualquer momento durante o processo de regularização, devendo representar requerimento de LO e o RFAR.
+
 ### ORGÃOS INTERVENIENTES
+Cabe ao IBAMA informar da emissão de AO, em até 15 dias após a emissão da autorização, os órgãos e entidades citados na Portaria Interministerial MMA/MJ/MinC/MS nº 60/2015 ou aqueles que tenham sucedido à competência definida na normativa e aos órgãos gestores de UCs conforme previsto no Art. 5º da Resolução CONAMA nº428/2010
+
 ### PROGRAMAS AMBIENTAIS
+A AO demanda a execução dos seguintes Programas Ambientais para operação da rodovia e atividades rodoviárias:
+- Programa Ambiental de construção.
+- Programa de monitoramento, prevenção e controle de processos erosivos.
+- Programa de supressão de vegetação e afungentamento de fauna.
+- Programa de recuperação de áreas degradadas.
+- Programa de monitoramento, prevenção e controle de atropelamentos de fauna silvestre.
+- Programa de recuperação/mitigação de passivos ambientais.
+
+As medidas devem ser diretamente relacionadas e proporcionais aos impactos da atividade/empreendimento.
+
 ### RELATÓRIO ANUAL DE REGULARIZAÇÃO AMBIENTAL (RARA)
 
 ## FERROVIAS
