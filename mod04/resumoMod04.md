@@ -123,8 +123,49 @@ Ações **urgentes/emergenciais**
 </table>
 
 ### Procedimento simplificado
-### Atividades e obras de baixo potencial de impacto ambiental
-### Licenciamento Ambiental Simplificado
+É definido pela Resolução CONAMA nº479/2017. 
+
+De forma geral, os procedimentos administrativos para a obtenção do licenciamento ambiental específico são semelhantes ao processo ordinário. As diferenças são mais presentes nos tipos de estudo ambientais solicitados e nas fases de licenciamento, pois na maioria das casos as fases são suprimidas ou agregadas.
+
+#### Atividades e obras de baixo potencial de impacto ambiental
+
+<table>
+    <tr>
+        <th colspan="2">OBRAS FERROVIARIAS CONSIDERADAS DE BAIXO IMPACTO AMBIENTAL - CONAMA Nº479/17</th>
+    </tr>
+    <tr>
+        <td><strong>Unidades de apoio necessárias à operação ferroviária</strong></td>
+        <td>
+            <ul>
+                <li>Pátios para formação, manobras, transbordo e cruzamentos de trens</li>
+                <li>Oficinas, postos de manutenção de material rodante (locomotivas e vagões) e suas estruturas (Estação de Tratamento de efluentes - ETE, Separador de Água e Óleo - SAO, armazenamento temporário de resíduos sólidos, entre outros.)</li>
+                <li>Usinas de tratamento de dormentes</li>
+                <li>Oficinas de manutenção de equipamentos de via permanente</li>
+                <li>Postos de abastecimento</li>
+                <li>Estaleiro de soldagem de trilhos</li>
+                <li>Estações de controle de tráfego, estações de passageiros, estações de controle de carga e descarga</li>
+                <li>Subestações elétricas e de comunicação</li>
+                <li>Terminais de cargas</li>
+                <li>Cabine de teste de potência de locomotivas</li>
+                <li>Lavadores de vagões e locomotivas</li>
+                <li>Areeiro</li>
+                <li>Cabine de pintura</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td><strong>Serviços e obras de rotina</strong></td>
+        <td>Atividades sistemáticas de manutenção e reparação da integridade de estruturas já existentes, bem como outras necessárias à manutenção da segurança operacional da via e à conservação ambiental, não incluindo obras de aumento de capacidade, incluídas as atividades exemplificadas no anexo l da Resolução Conama nº 479/2017</td>
+    </tr>
+    <tr>
+        <td><strong>Atividades de melhoramentos</strong></td>
+        <td>Obras relacionadas à reforma da linha férrea e das estruturas que a compõe, ou seja, um conjunto de intervenções que modificam as características técnicas existentes ou acrescentam características novas na sua geometria, sistema de sinalização e segurança e adequação ou incorporação de elementos nos demais componentes do sistema ferroviário, não incluindo obras de duplicação; e obras de transposição de linha férrea em locais onde há cruzamento entre ferrovia e vias públicas, tais como viadutos ferroviários ou rodoviários, passarelas, tubulações de água, esgoto ou drenagem</td>
+    </tr>
+</table>
+
+#### Licenciamento Ambiental Simplificado
+Desta forma
+
 ### Atividades e obras vinculadas à Licença de Operação (LO)
 ### Unidades de Apoio
 ### Serviços e obras de rotina
