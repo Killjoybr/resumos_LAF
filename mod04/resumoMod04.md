@@ -214,10 +214,30 @@ O prazo para análise dos estudos ambientais é de 90 dias. Ao final da análise
     </tr>
 </table>
 
-### Atividades e obras vinculadas à Licença de Operação (LO)
-### Unidades de Apoio
 ### Serviços e obras de rotina
+São atividades sistemáticas de manutenção e reparação da integridade de estruturas já existentes, bem como outras necessárias à manutenção da segurança operacional da via e à conservação ambiental, não incluindo obras de aumento de capacidade, incluídas as atividades exemplificadas no [anexo I da Resolução CONAMA nº479/2017.](https://diariofiscal.com.br/ZpNbw3dk20XgIKXVGacL5NS8haIoH5PqbJKZaawfaDwCm/legislacaofederal/resolucao/2017_conama479.html)
+
+[Anexo I no repositório](./assets/anexoIRCON.md)
+
 ### Atividades de Melhoramentos
+<table>
+    <tr>
+        <th colspan="2">ATIVIDADES DE MELHORAMENTOS</th>
+    </tr>
+    <tr>
+        <th>TIPO DE OBRA</th>
+        <th>ESPECIFICAÇÃO DA ATIVIDADE</th>
+    </tr>
+    <tr>
+        <td>Obras relacionadas à reforma da linha férrea e das estruturas que a compõe</td>
+        <td>Conjunto de intervenções que modificam as características técnicas existentes ou acrescentam características novas na sua geometria, sistema de sinalização e segurança e adequação ou incorporação de elementos nos demais componentes do sistema ferroviário, não incluindo obras de duplicação</td>
+    </tr>
+    <tr>
+        <td>Obras de transposição de linha férrea</td>
+        <td>Em locais onde há cruzamento entre ferrovia e vias públicas, tais como viadutos ferroviários ou rodoviários, passarelas, tubulações de água, esgoto ou drenagem</td>
+    </tr>
+</table>
+
 ### Obras Emergenciais
 ### Orientações Gerais
 
