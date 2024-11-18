@@ -58,8 +58,65 @@ A AO demanda a execução dos seguintes Programas Ambientais para operação da 
 As medidas devem ser diretamente relacionadas e proporcionais aos impactos da atividade/empreendimento.
 
 ### RELATÓRIO ANUAL DE REGULARIZAÇÃO AMBIENTAL (RARA)
+O RARA deverá ser encaminhado ao IBAMA, pelo empreendedor, até o dia 30 de junho de cada ano. As informações compreendem o período entre janeiro e dezembro do ano civil anterior ao da apresentação do Relatório Anual.
+
+Será utilizado como instrumento base de controle para as atividades de supervisão, acompanhamentos e auditagem, podendo o IBAMA, a qualquer tempo, realizar vistorias de acompanhamento dos empreendimentos ou atividades.
+
+#### Autorização de Operação - AO
+É o ato autoritativo precário e transitório da operação de empreendimento ou atividade e que estabelece as medidas necessárias para emissão de LO.
+
+A emisão de AO de rodovias federais pavimentadas autoriza as seguintes atividades:
+- Manutenção.
+- Melhoramento.
+- Instalação de estruturas de apoio à execução das atividades de manutenção, melhoramentos e ações urgentes/emergenciais.
+- Ações urgentes e/ou emergenciais.
+- Manejo de fauna necessária a execução das atividades descritas acima, sendo vedada a coleta de fauna silvestre para fins de coleção.
+
+Exemplos de atividade de **manutenção**
+```txt
+Limpeza, capina e roçada da faixa de domínio
+
+Remoção de barreiras de corte
+
+Remendos superficiais e profundos
+```
+
+Exemplos de atividade de **melhoramentos**
+```txt
+Implantação de vias marginais em travessias urbanas
+
+Implantação de estruturas de fibra óptica a serem utilizadas para a operação rodoviária
+
+Alargamento da plataforma da rodovia para implantação de acostamento e de 3ª faixa
+```
+
+Ações **urgentes/emergenciais**
+<table>
+    <tr>
+        <th>TIPO DE AÇÃO</th>
+        <th>DESCRIÇÃO</th>
+    </tr>
+    <tr>
+        <td>Ações urgentes</td>
+        <td>Intervenções requeridas quando há indicios de iminente ameaça de dano ou comprometimento que possa restringir a segurança de tráfego ou provocar danos ao meio ambiente e a terceiros.</td>
+    </tr>
+    <tr>
+        <td>Ações emergenciais</td>
+        <td>Intervenções que se destinam a recompor, reconstruir ou restaurar taludes, trechos rodoviários e obras de arte especiais que tenham sido seccionados, obstruídos ou danificados por evento extraordinário ou catastrófico, ocasionando a interrupção do tráfego ou colocando flagrante risco em seu desenvolvimento.</td>
+    </tr>
+</table>
 
 ## FERROVIAS
+<table>
+    <tr>
+        <th>
+            LEGISLAÇÃO ESPECÍFICA
+        </th>
+        <th>
+            DESCRIÇÃO
+        </th>
+    </tr>
+</table>
 
 ### Procedimento simplificado
 ### Atividades e obras de baixo potencial de impacto ambiental
