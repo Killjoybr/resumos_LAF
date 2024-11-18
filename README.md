@@ -80,3 +80,9 @@ Essa pasta contem resumos e outras notas de estudo p/ o [curso](https://www.esco
         </td>
     </tr>
 </table>
+
+## Aviso Legal
+
+Este repositório utiliza conteúdo proveniente do governo brasileiro. Caso haja qualquer necessidade de remoção ou edição de parte do conteúdo, por favor, entre em contato comigo através das minhas redes sociais encontradas no meu site.
+
+[ruandavid.tech](https://ruandavid.tech)
