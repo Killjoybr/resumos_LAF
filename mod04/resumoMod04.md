@@ -168,6 +168,14 @@ Os empreendimentos e atividades de baixo potencial de impacto ambiental ficam su
 
 ![fluxogramaLicenciamentoSimplificado](./assets/licenciamentoSimplificado.svg)
 
+O procedimento simplificado em questão será iniciado pela apresentação do requerimento de Licença de Instalaçao.
+
+O requerimento deverá compor as seguintes informações:
+- Documentos e/ou autorizações legais exigidos.
+- RAS - Relatório Ambiental Simplificado, elaborado com base em dados secundários e de monitoramento existentes, a partir do termo de referência padrão, estabelecido pelo órgão ambiental competente.
+
+O prazo para análise dos estudos ambientais é de 90 dias. Ao final da análise deverá ser emitido um parecer técnico conclusivo.
+
 ### Atividades e obras vinculadas à Licença de Operação (LO)
 ### Unidades de Apoio
 ### Serviços e obras de rotina
