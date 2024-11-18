@@ -1,0 +1,57 @@
+# ANEXO I
+
+## CARACTERIZAÇÃO EXEMPLIFICATIVA DE SOLUÇÕES E TIPO DE OBRAS DE ROTINA NA FAIXA DE DOMÍNIO DAS FERROVIAS
+
+- Poda de árvores nativas ou exóticas que coloquem em risco a operação ferroviária.
+- Limpeza e reparo de sistemas de drenagem, bueiros, canais e corta-rios.
+- Obras de sinalização.
+- Melhorias e/ou modernizações em unidades de apoio existentes.
+- Manutenção do sistema de comunicação de uso próprio da ferrovia.
+- Obras para alteração de linha férrea nos pátios e terminais de carga.
+- Serviços para manutenção da superestrutura ferroviária.
+- Revisão das fixações dos dormentes de madeira, concreto e aço.
+- Quadramento e reespaçamento de dormentes de madeira, concreto e aço.
+- Substituição de dormentes em pontes e viadutos e passagem em nível.
+- Correção de bitola da via e soldagem de trilhos com equipamento de pequeno ou grande porte.
+- Aplicação ou substituição de placas de apoio.
+- Substituição de dormentes especiais, agulhas, cruzamento, contratrilhos, trilhos, aparelho de manobra ou fixações de AMV (Aparelho de Mudança de Via).
+- Aplicação ou reposicionamento de retensores e alívio de tensões térmicas.
+- Transformação de perfil de trilhos e inversão de trilhos.
+- Assentamento ou substituição de juntas isoladas, nivelamento de juntas e regulagem de folgas de juntas.
+- Conservação de juntas com desmontagem e sem desmontagem.
+- Deslocamento longitudinal de barras de trilhos.
+- Correção geométrica (nivelamento alinhamento) da via com equipamento manual ou de pequeno a grande porte.
+- Desguarnecimento de lastro manual ou com equipamento de grande porte.
+- Limpeza e descarga de lastro.
+- Carga e descarga manual de dormentes, trilhos e acessórios metálicos.
+- Carga e descarga mecanizada de dormentes, trilhos e acessórios metálicos.
+- Carga e descarga manual e mecanizada de aparelhos de mudança de via.
+- Deslocamento transversal de linha.
+- Montagem, demolição, nivelamento e alinhamento de AMV.
+- Correção das cotas de salvaguarda em AMV.
+- Substituição ou aplicação de contratrilho em ponte ou viaduto.
+- Remoção ou assentamento de contratrilho em passagem de nível.
+- Corte, furação e bizelamento de trilhos.
+- Esmerilhamento de trilhos com equipamento de pequeno porte ou de grande porte.
+- Manutenção da infraestrutura ferroviária.
+- Controle de vegetação da ferrovia observadas a legislação e as normas pertinentes.
+- Implantação de cercas, túneis, elevados e pontes de passagem para direcionamento de fauna.
+- Recuperação de erosões em taludes de aterro e corte.
+- Reforço de contenções.
+- Estabilização de taludes de corte e aterro.
+- Abertura manual de valetas de contorno de corte e pé de saia de aterro.
+- Melhorias de obras de arte corrente, limpeza de canaletas revestidas, de bueiro, canais de carga e descarga.
+- Recuperação de bueiro, alas, descida d'água, caixa coletora e caixa dissipadora.
+- Ampliação e prolongamento de bueiros para garantir o correto direcionamento da água.
+- Reconformação de banqueta de plataforma: desassoreamento, compactação manual ou mecânica de aterro.
+- Manutenção e melhorias dos acessos e retirada de barreira manual e mecânica.
+- Limpeza / desobstrução de drenos profundos.
+- Implantação e recuperação de cercas e muros de divisa da faixa de domínio.
+- Limpeza de grelhas em passagens em nível.
+- Implantação e manutenção de sinalização e de elementos de proteção e segurança.
+- Adequação geométrica do traçado de linhas adjacentes a pontes, com deslocamento da linha, em pequenas extensões.
+- Obras de adequações de drenagem em túneis, limpeza e construção de canaletas e instalação de dispositivo de drenagem em abobadas.
+- Remoção de vigamento metálico e adequações de encontros em pontes envolvendo contenção de plataforma e construção de estrutura de contenção do aterro da plataforma da linha.
+- Substituição de aparelho de apoio em pontes e limpeza junto aos encontros.
+- Roçada e capina manual junto aos encontros de pontes.
+- Manutenção de infra, meso e superestrutura em pontes.
