@@ -31,6 +31,16 @@ Legislação específicas para o modal rodoviário
 </table>
 
 ### Procedimento Específico
+A portaria MMA/INFRA nº 01/2020 estabelece procedimentos de licenciamento ambiental a serem utilizados pelo IBAMA, para proceder com a regularização de rodovias federais pavimentadas.
+
+![procedimentoEspecífico_fluxograma](./assets/procedimentoEspecífico.svg)
+
+- A FCA e Requerimento de AO devem ser enviados via SEI (Sistema Eletrônico de Informação).
+- Na impossibilidade de adequação do objeto ao enquadramento, na fase de análise da FCA, o IBAMA informará ao empreendedor o tipo de licenciamento adequado para aquela atividade ou empreendimento.
+- Caso haja supressão de vegetação, deverá ser solicitada a Autorização de Supressão de Vegetação - ASV - via SINAFLOR
+- **AO:** Autorização de Operação, cujo modelo de requerimento é anexo a Portaria.
+- **RFAR:** Relatório Anual de Regularização Ambiental.
+
 ### ORGÃOS INTERVENIENTES
 ### PROGRAMAS AMBIENTAIS
 ### RELATÓRIO ANUAL DE REGULARIZAÇÃO AMBIENTAL (RARA)
