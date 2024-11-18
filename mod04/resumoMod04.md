@@ -164,7 +164,9 @@ De forma geral, os procedimentos administrativos para a obtenção do licenciame
 </table>
 
 #### Licenciamento Ambiental Simplificado
-Desta forma
+Os empreendimentos e atividades de baixo potencial de impacto ambiental ficam sujeitos ao licenciamento ambiental com base em procedimento simplificado.
+
+![fluxogramaLicenciamentoSimplificado](./assets/licenciamentoSimplificado.svg)
 
 ### Atividades e obras vinculadas à Licença de Operação (LO)
 ### Unidades de Apoio
