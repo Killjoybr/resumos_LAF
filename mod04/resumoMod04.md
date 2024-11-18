@@ -176,6 +176,44 @@ O requerimento deverá compor as seguintes informações:
 
 O prazo para análise dos estudos ambientais é de 90 dias. Ao final da análise deverá ser emitido um parecer técnico conclusivo.
 
+<table>
+    <tr>
+        <th>FASE DO LICENCIAMENTO</th>
+        <th>DESCRIÇÕES</th>
+    </tr>
+    <tr>
+        <td>Instauração de Processo</td>
+        <td>
+            <ul>
+                <li>Abertura de Processo</li>
+                <li>Ficha de Caracterização de Atividade (FCA)</li>
+                <li>Análise de Competência</li>
+                <li>Enquadramento do empreendimento</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>Licenciamento de Instalação</td>
+        <td>
+            <ul>
+                <li>Relatório Ambiental Simplificado (RAS)</li>
+                <li>Tomada de Decisão</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>Licenciamento de Operação</td>
+        <td>
+            <ul>
+                <li>Elaboração dos documentos em atendimento aos requisitos da LI</li>
+                <li>Elaboração dos Programas de Controle Ambiental (PBA ou PGA)</li>
+                <li>Análise de Documentos</li>
+                <li>Tomada de decisão</li>
+            </ul>
+        </td>
+    </tr>
+</table>
+
 ### Atividades e obras vinculadas à Licença de Operação (LO)
 ### Unidades de Apoio
 ### Serviços e obras de rotina
