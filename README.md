@@ -32,9 +32,30 @@ Essa pasta contem resumos e outras notas de estudo p/ o [curso](https://www.esco
 - [Compensação Ambiental](/mod03/resumoMod03.md#compensação-ambiental)
 
 ## Módulo 4: Licenciamento Ambiental da Infraestrutura de Transportes
-- Rodovias
-- 
-
+- [Rodovias](/mod04/resumoMod04.md#rodovias)
+  - [Procedimento Específico](/mod04/resumoMod04.md#procedimento-específico)
+  - [Orgãos Intervenientes](/mod04/resumoMod04.md#orgãos-intervenientes)
+  - [Programas Ambientais](/mod04/resumoMod04.md#programas-ambientais)
+  - [Relatório Anual de Regularização Ambiental - RARA](/mod04/resumoMod04.md#relatório-anual-de-regularização-ambiental-rara)
+    - [Autorização de Operação - AO](/mod04/resumoMod04.md#autorização-de-operação---ao)
+- [Ferrovias](/mod04/resumoMod04.md#ferrovias)
+  - [Procedimento Simplificado](/mod04/resumoMod04.md#procedimento-simplificado)
+    - [Atividades e obras de baixo potencial de impacto ambiental](/mod04/resumoMod04.md#atividades-e-obras-de-baixo-potencial-de-impacto-ambiental)
+    - [Licenciamento Ambiental Simplificado](/mod04/resumoMod04.md#licenciamento-ambiental-simplificado)
+  - [Servições e Obras de Rotina](/mod04/resumoMod04.md#serviços-e-obras-de-rotina)
+  - [Atividades de Melhoramento](/mod04/resumoMod04.md#atividades-de-melhoramentos)
+  - [Orientações Gerais](/mod04/resumoMod04.md#orientações-gerais)
+- [Aeroportos](/mod04/resumoMod04.md#aeroportos)
+  - [Procedimento Simplificado - Ampliação e Construção de Aeroportos Regionais](/mod04/resumoMod04.md#procedimento-simplificado--ampliação-e-construção-de-aeroportos-regionais)
+  - [Enquadramento de Baixo Potencial de Impacto Ambiental](/mod04/resumoMod04.md#enquadramento-de-baixo-potencial-de-impacto-ambiental)
+  - [Procedimento Simplificado](/mod04/resumoMod04.md#procedimento-simplificado-1)
+  - [Licença de Operação - Atividades que Poderão Ser Autorizadas](/mod04/resumoMod04.md#licença-de-operação--atividades-que-poderão-ser-autorizadas)
+- [Portos](/mod04/resumoMod04.md#portos)
+  - [Definições Específicas](/mod04/resumoMod04.md#definições-específicas)
+  - [Procedimento Específico](/mod04/resumoMod04.md#procedimento-específico-1)
+  - [Procedimento para Regularização Ambiental](/mod04/resumoMod04.md#procedimento-para-regularização-ambiental)
+  - [Outras Autorizações](/mod04/resumoMod04.md#outras-autorizações)
+  - [Cais, Molhes, Trapiches e Similares](/mod04/resumoMod04.md#cais-molhes-trapiches-e-similares)
 
 ### Pontuação obtida em cada módulo:
 
@@ -68,7 +89,7 @@ Essa pasta contem resumos e outras notas de estudo p/ o [curso](https://www.esco
         4
         </td>
         <td>
-        0/25
+        25/25
         </td>
     </tr>
     <tr>
@@ -76,7 +97,7 @@ Essa pasta contem resumos e outras notas de estudo p/ o [curso](https://www.esco
         Total
         </td>
         <td>
-        72/100
+        97/100
         </td>
     </tr>
 </table>
