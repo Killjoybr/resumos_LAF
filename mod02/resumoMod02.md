@@ -7,7 +7,7 @@ Em regra, o LAF no Brasil possui 3 fases distintas:
 
 ![Fases do LAF](assets/image.png)
 
-## Fases do LAF
+### Fases do LAF
 - Instauração do Processo
    1. [Abertura de Processo](https://www.gov.br/ibama/pt-br/assuntos/laf/procedimentos-e-servicos/etapas/abertura-de-processo)
    1. [Triagem e Enquadramento](https://www.gov.br/ibama/pt-br/assuntos/laf/procedimentos-e-servicos/etapas/triagem-e-enquadramento)
@@ -46,12 +46,12 @@ Em regra, o LAF no Brasil possui 3 fases distintas:
         
         Neste contexto, cada órgão ambiental licenciador de acordo com sua discricionariedade também pode variar as nomenclaturas para cada etapa. - PDF Módulo II -
 
-## Abertura do processo
+### Abertura do processo
 O processo inicia-se por meio do formulário de caracterização de atividade (FCA). As informações que compõem o FCA auxiliam o Ibama nas etapas de triagem e definição do escopo. Após seu envio é instaurado processo administrativo no Ibama. 
 
 O empreendedor deverá realizar o requerimento conforme a resolução **CONAMA nº6/1986**.
 
-## Análise de Competência e Triagem
+### Análise de Competência e Triagem
 
 Nessa etapa, o Ibama avalia se a atividade ou empreendimento deve ser submetido ao LAF, em caso positivo, defique quais os procedimentos serão adotados.
 
@@ -59,7 +59,7 @@ Primeiro é avaliado se a competência para conduzir o licenciamenento da ativid
 
 Caso sejam sujeitos ao LAF, o Ibama realiza o enquadramento desses quanto ao potencial de causar degradação ambiental. Caso seja de competência do estado ou município, oprocesso deve ser encaminhado pelo empreendedor para o órgão ambiental competente.
 
-## Definição de escopo
+### Definição de escopo
 Fase de elaboração do [Termo de Referência](#termo-de-referência) (TR). Devem ser analisados os potenciais impactos ambientais da atividade ou empreendimento, os principais aspectos associados a esses impactos e então se definem critérios e o conteúdo mínimo para a elaboração do estudo ambiental.
 
 ## Órgãos Intervenientes
@@ -258,7 +258,7 @@ De acordo com os Termos de Referência para Estudo de Impacto Ambiental do IBAMA
     </tr> 
 </table>
 
-## Estudos Ambientais de "Baixo Risco"
+### Estudos Ambientais de "Baixo Risco"
 
 **Estudo Ambiental Simplificado (EAS)**
 
@@ -438,7 +438,7 @@ Deverão permitir o acompanhamento real dos efeitos do empreendimento sobre o me
     </tr>
 </table>
 
-## Programa de Rodovias Federais Ambientalmente Sustentáveis PROFAS
+### Programa de Rodovias Federais Ambientalmente Sustentáveis PROFAS
 
 O Brasil já possuía milhares de quilômetros de rodovias pavimentadas antes da instituição do licenciamento ambiental, ou seja, quando os estudos ambientais passaram a ser obrigatórios boa parte das rodovias já existiam.
 
