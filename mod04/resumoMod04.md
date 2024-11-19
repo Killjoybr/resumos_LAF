@@ -311,10 +311,23 @@ De acordo com a Resolução CONAMA nº 470/2015, as LOs poderão autorizar as se
 ## Portos
 
 ### Definições específicas
+A seção define conceitos fundamentais relacionados à infraestrutura portuária, como:  
+- **Porto Organizado**: áreas sob jurisdição de uma autoridade portuária, incluindo instalações terrestres e aquaviárias.  
+- **Infraestrutura Portuária**: elementos como cais, píeres, armazéns, vias internas, bacias de evolução e canais de acesso.  
+- **Operação Portuária**: movimentação e armazenamento de mercadorias no transporte aquaviário.  
+Esses conceitos ajudam a contextualizar a regulamentação ambiental do setor.
+
 ### Procedimento Específico
+As Portarias MMA nº 424/2011 e nº 425/2011 regulam o licenciamento ambiental de portos e terminais, incluindo a criação do Programa Federal de Apoio à Regularização e Gestão Ambiental Portuária (PRGAP). O procedimento prevê etapas como adequação à legislação, apresentação de relatórios e atendimento às condicionantes ambientais.
+
 ### Procedimento para Regularização Ambiental
+O processo envolve a entrega de documentos como a Ficha de Caracterização da Atividade (FCA), Autorização de Operação (AO) e Relatório Final de Atividades de Regularização (RFAR). A análise pelo Ibama considera o cumprimento de programas ambientais para emissão de Licença de Operação (LO).
+
 ### Outorgas de Direitos de Uso de Recursos Hídricos
+Atividades que alterem o regime de recursos hídricos, como extração de águas subterrâneas, lançamento de efluentes ou captação de água, exigem outorga do Poder Público. Essa medida visa regular o uso sustentável dos recursos hídricos.
+
 ### Outras autorizações
-### Parecer da Marinha do Brasil – Diretoria de Portos e Costas/Capitania dos Portos
-### Obras em Geral
+Antes do início de obras sobre ou sob águas, como cais ou molhes, o empreendedor deve obter parecer favorável da Marinha do Brasil, que avalia impactos na segurança da navegação e no ordenamento aquaviário.
+
 ### Cais, Molhes, Trapiches e Similares
+Construções sobre águas podem causar impactos significativos, como assoreamento e mudanças no regime hídrico. Projetos que envolvam estruturas sólidas requerem estudos específicos de engenharia costeira para avaliação dos impactos. Obras sobre estacas, como trapiches, são menos exigentes, mas ainda precisam de parecer técnico.
