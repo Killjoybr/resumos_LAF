@@ -267,8 +267,25 @@ Apesar do enquadramento no procedimento simplificado, o empreendedor deverá obs
 </table>
 
 ### Procedimento Simplificado – Ampliação e Construção de Aeroportos Regionais
+É definido pela Resolução CONAMA nº 470/2015, desta forma, considara-se a seguinte definição:
+
+Aeroporto com movimentação anual de passageiros embarcados e desembarcados inferior a:
+- 800.000 passageiros por ano, quando localizado na Região da Amazônia Legal;
+- 600.000 passageiros por ano, quando localizado nas demais regiões do país;
+
 ### Enquadramento de Baixo Potencial de Impacto Ambiental
+A ampliação e construção de novos aeroportos são consideradas de baixo potencial de impacto se estiver no seguinte enquadramento:
+
+1. Não se localize em zonas de amortecimento de unidades de conservação de proteção integral, adotando-se o limite de 3Km a partir do limite da unidade de conservação, cuja zona de amortecimento não esteja ainda estabelecida.
+2. Não implique em:
+   1. Corte e supressão de vegetação primária e secundária no estágio avançado de regeneração, no bioma Mata Atlântica, conforme Lei nº 11.428, de 22 de dezembro de 2006, ou outros biomas protegidos por leis específicas.
+3. Sobreposição com áreas regulares de pouso, descanso, alimentação e reprodução de aves migratórias, constantes no Relatório Anual de Rotas e Áreas de Concentração de Aves Migratórias no Brasil publicado pelo ICMBIO.
+4. Sobreposição com áreas sensíveis de espécies ameaçadas de extinção, constantes no Relatório de Áreas Sensíveis de Espécies Ameaçadas de Extinção Relacionadas a Aeroportos, para fins de operação de aeroportos regionais.
+
+
 ### Procedimento Simplificado
+
+
 ### Licença de Operação – Atividades que poderão ser autorizadas
 
 ## Portos
