@@ -284,9 +284,29 @@ A ampliação e construção de novos aeroportos são consideradas de baixo pote
 
 
 ### Procedimento Simplificado
+O procedimento simpificado deverá ser instruído da seguinte forma:
 
+1. Estudo preliminar de engenharia, contendo no mínimo, a localização, descrição e as plantas da situação existente e das atividades a serem executadas, bem como a respectiva Anotação de Responsabilidade Técnica - ART
+2. Relatório Ambiental Simplificado - RAS
+3. Documentos, autorizações e outorgas legalmente exigíveis, conforme o caso, por força das normas federais, estaduais e municipais circunscritas ao licenciamento ambiental.
+4. Requerimento de autorização de supressão de vegetação devidamente instruído, quando couber.
+5. Manifestação do órgão municipal competente, quanto ao use e ocupação do solo.
+
+O Relatório Ambiental Simplificado (RAS) tem como objetivo oferecer elementos para a análise de viabilidade ambiental de empreendimentos ou atividades consideradas de baixo impacto ambiental.
+
+O Termo de Referência para elaboração do RAS pode está definido no anexo II da Resolução CONAMA nº 470/2015.
+
+O órgão ambiental licenciador analisará os documentos no prazo de **180 dias**, contados a partir da data de entrada no protocolo. 
 
 ### Licença de Operação – Atividades que poderão ser autorizadas
+De acordo com a Resolução CONAMA nº 470/2015, as LOs poderão autorizar as seguintes atividades:
+
+1. Poda de vegetação que coloque em risco a operação aeroportuária
+2. Controle de plantas invasoras, inclusive com o uso de herbicidas específicos, devidamente registrados perante órgãos competentes, observados os instrumentos normativos pertinentes ao emprego de produtos tóxicos.
+3. Limpeza e reparo de sistemas de drenagem, bueiros ou similares.
+4. Implantação de cercas, defensas metálicas ou similares.
+5. Reparos e manutenção em obras de arte.
+6. Melhorias ou modernizações em estruturas aeroportuárias, que não impliquem ampliação.
 
 ## Portos
 
