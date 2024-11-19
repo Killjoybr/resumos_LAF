@@ -238,10 +238,33 @@ São atividades sistemáticas de manutenção e reparação da integridade de es
     </tr>
 </table>
 
-### Obras Emergenciais
 ### Orientações Gerais
+Essas atividades ficam autorizadas pela LO, desde que respeitadas as condicionantes presentes na mesma.
+
+Apesar do enquadramento no procedimento simplificado, o empreendedor deverá observar todos os normativos, sejam eles municipais, estaduais ou federais, incluindo a necessidade de obtenção de outras autorizações.
 
 ## Aeroportos
+<table>
+    <tr>
+        <th colspan="2">LEGISLAÇÃO ESPECÍFICA</th>
+    </tr>
+    <tr>
+        <td>Resolução Conama nº 470/2015</td>
+        <td>A Resolução Conama nº 470, de agosto de 2015, estabelece critérios e diretrizes para o licenciamento ambiental dos aeroportos regionais. As definições desta resolução serão tratadas no decorrer deste capítulo.</td>
+    </tr>
+    <tr>
+        <td>Resolução Conama nº 466/2015</td>
+        <td>A Resolução CONAMA nº 466, de 05 de fevereiro de 2015, estabelece diretrizes e procedimentos para elaboração e autorização do Plano de Manejo de Fauna em Aeródromos (PMFA), definido pela Lei nº 12.725, de 16 de outubro de 2012. O órgão ambiental deverá ser consultado pelo empreendedor sobre a necessidade da referida autorização sempre que houver atividades de manejo de fauna no respectivo empreendimento.</td>
+    </tr>
+    <tr>
+        <td>Resolução Brasileira da Aviação Civil – RBAC 161</td>
+        <td>A Resolução Brasileira da Aviação Civil – RBAC 161 estabelece para os operadores de aeródromos civis, os requisitos de elaboração e aplicação do Plano de Zoneamento de Ruído – PZR e define critérios técnicos aplicáveis na análise de questões relacionadas ao ruído aeronáutico na aviação civil.</td>
+    </tr>
+    <tr>
+        <td>Resolução Brasileira da Aviação Civil – RBAC 153 – Subparte H</td>
+        <td>A Resolução define que o operador de aeródromo deve estabelecer e implementar procedimentos básicos de gerenciamento do risco da fauna que sejam capazes de mitigar o risco de colisão entre aeronaves e a fauna. Desta forma, descreve a metodologia para elaboração do Estudo de Identificação da Fauna (Diagnóstico detalhado e análise de risco de ocorrências de colisão de fauna), assim como do Plano de Gerenciamento do Risco da Fauna (Procedimento específico para controle de fauna em aeroporto). Estes devem ser submetidos a análise e aprovação da ANAC.</td>
+    </tr>
+</table>
 
 ### Procedimento Simplificado – Ampliação e Construção de Aeroportos Regionais
 ### Enquadramento de Baixo Potencial de Impacto Ambiental
