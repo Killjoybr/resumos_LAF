@@ -6,3 +6,10 @@ O objetivo desse repositório é fornecer um material de estudo sobre os licenci
 
 ## Agradecimentos
 Gostaria de agradecer a toda equipe da SUST pelo apoio e motivação no dia a dia.
+
+## Aviso Legal
+
+Este repositório utiliza conteúdo proveniente do governo brasileiro. Caso haja qualquer necessidade de remoção ou edição de parte do conteúdo, por favor, entre em contato comigo através dos contatos abaixo.
+
+- [site](https://ruandavid.tech)
+- [devkilljoy@gmail.com](mailto:devkilljoy@gmail.com)
